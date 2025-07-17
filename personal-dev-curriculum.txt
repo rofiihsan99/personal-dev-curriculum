@@ -1,5 +1,6 @@
 curruculum rselusi
 konsisten belajar html
 konsisten belajar css
-masih belajar javascript
-akan belajar menggunakan bootstrap 5
+konsisten belajar javascript 
+masih belajar javascript lanjutan
+next akan belajar dom javascript
