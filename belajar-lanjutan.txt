@@ -6,3 +6,4 @@ enguasai perintah Git dasar (add, commit, push, pull) dan memahami bagaimana rep
 
 -mempelajari konsep JavaScript Asynchronous (Callbacks, Promises).
 Memahami bagaimana JavaScript menangani operasi yang membutuhkan waktu (seperti pengambilan data dari server) tanpa memblokir eksekusi kode utama, dengan fokus pada penggunaan callback functions dan objek Promise untuk mengelola alur asinkron.
+struktur data dasar
