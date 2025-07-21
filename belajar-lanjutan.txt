@@ -1,0 +1,4 @@
+rencana belajar harian 21 juli 2025
+fokus utama hari ini
+-memahami dasar dasar git dan alur kerja github
+-mempelajari konsep JavaScript Asynchronous (Callbacks, Promises).
