@@ -10,6 +10,6 @@ struktur data dasar
 
 *framework JavaScript
 >vue
-
+>react
 *php framewoks
 >python
